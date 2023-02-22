@@ -73,13 +73,9 @@ CELLS-
 
 
 <img width="718" alt="1" src="https://user-images.githubusercontent.com/126072954/220625719-08918714-0eff-4373-aede-ce61df5db1fd.png">
-
 <img width="718" alt="2" src="https://user-images.githubusercontent.com/126072954/220626033-8ca6b96c-d841-4ab1-bab1-cd478a8fe9b8.png">
-
 <img width="718" alt="3" src="https://user-images.githubusercontent.com/126072954/220626293-dc33724b-9d77-4b2f-a1b1-a857eb754a46.png">
-
 <img width="718" alt="4" src="https://user-images.githubusercontent.com/126072954/220626562-37db7867-ee03-4797-a1d9-33e772413730.png">
-
 <img width="718" alt="5" src="https://user-images.githubusercontent.com/126072954/220626915-f99b2c70-bc08-4e2d-9057-e5c7b0f9c372.png">
 
 
