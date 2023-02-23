@@ -7,19 +7,20 @@
 TABLE OF CONTENTS
 
 
-1- DAY1 
+1- DAY1- INRTODUCTION AND BASICS OF STA
 
 
-2- DAY2
+2- DAY2- LIBERTY FILE AND SPEF FILE
 
 
-3- DAY3
+3- DAY3- SLACK COMPUTATION
 
 
-4- DAY4
+4- DAY4- CLOCK GATING CHECK AND ASYNCH PIN CHECK
 
 
-5- DAY5
+5- DAY5- CPPR AND ECO INSERTION
+
 
 ## DAY1 
 CONTENTS OF STANDARD CELL
@@ -129,20 +130,19 @@ QUESTION -Change the number of paths being reported to 100
 <img width="476" alt="31" src="https://user-images.githubusercontent.com/126072954/220637296-1ce6b1fb-df44-4317-9311-8cf37a4a9037.png">
 
 
-
-  Analyze each path in detail and understand
+Analyze each path in detail and understand
   
   
-  <img width="448" alt="PATHS" src="https://user-images.githubusercontent.com/126072954/220644244-cdca7eb6-c38e-462e-863c-7e9e47dadf88.png">
+<img width="448" alt="PATHS" src="https://user-images.githubusercontent.com/126072954/220644244-cdca7eb6-c38e-462e-863c-7e9e47dadf88.png">
 
-## PATH 1 - 
+### PATH 1 - 
 F1  - CK - U6 - U4 - U5   -  A1 - U7  - A2 - F2 - D
   
   
 <img width="709" alt="PATH 1" src="https://user-images.githubusercontent.com/126072954/220885845-bbcfdef8-3789-4eca-8eae-f930072faa1b.png">
 
 
-## PATH 2 -
+### PATH 2 -
 
 F1  -   CK -  U3  -   U5  -  A1  -  U7 -   A2 -  F2  -   D
    
@@ -150,7 +150,7 @@ F1  -   CK -  U3  -   U5  -  A1  -  U7 -   A2 -  F2  -   D
 <img width="678" alt="PATH 2" src="https://user-images.githubusercontent.com/126072954/220885912-15e1349d-785f-4398-b733-1e9140c20599.png">
 
     
-PATH 3-
+### PATH 3-
 
 F1  - CK  -  U3  -   U4  -  U6  -   A2  -  U7  - A1
     
@@ -158,7 +158,7 @@ F1  - CK  -  U3  -   U4  -  U6  -   A2  -  U7  - A1
 <img width="678" alt="PATH3" src="https://user-images.githubusercontent.com/126072954/220885967-ff7fad51-86be-403f-8f02-b74cce74495e.png">
 
     
-PATH 4-
+### PATH 4-
 
 F1  -   CK -   U6 -  A1 -  U7  -  A1 -   F2   -   D
     
@@ -166,21 +166,21 @@ F1  -   CK -   U6 -  A1 -  U7  -  A1 -   F2   -   D
 <img width="678" alt="PATH 4" src="https://user-images.githubusercontent.com/126072954/220886014-84556bcf-c2b0-4af0-9634-be3a1f621ad4.png">
 
     
-PATH 5-
+### PATH 5-
 
 F1    -   CK -  U3 -  U5   -   A2 - U7  -   A2 - F2 -  D
 
 <img width="678" alt="PATH 5" src="https://user-images.githubusercontent.com/126072954/220886108-32317baf-8218-48b6-bd5d-e6e552e2d53a.png">
 
     
-PATH 6- 
+### PATH 6- 
 
 F1    -   CK  -   U6   -   U4    -    U5    :   A1 -    U7   -    A2 -   F2   -   D
     
 <img width="678" alt="PATH 6" src="https://user-images.githubusercontent.com/126072954/220886166-4fb66787-5593-44a6-b990-dc57dc711ce0.png">
     
   
-PATH 7-
+### PATH 7-
 
 F1  -   CK  -  U3   -  U4   -   U6    -   A2   -     U7   -   A1  -   F2    -   D
     
@@ -188,7 +188,7 @@ F1  -   CK  -  U3   -  U4   -   U6    -   A2   -     U7   -   A1  -   F2    -   
 
 
      
-PATH 8-
+### PATH 8-
 
 F1    -   CK  -  U6  -   A1  -   U7   -   A1  -    F2   -   D
     
@@ -304,6 +304,15 @@ COMMAND -
 <img width="356" alt="LAB 5 23" src="https://user-images.githubusercontent.com/126072954/220904701-cf441302-949a-4a70-af90-2e87828f7e60.png">
 
 <img width="558" alt="LAB 5 24" src="https://user-images.githubusercontent.com/126072954/220904744-0f2fc65e-b536-4a36-849d-5a80ecc8e1de.png">
+
+ACKNOWLEDGEMENTS :
+Kunal Ghosh, Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+Vikas Sachdeva, Advisor, Tech and VLSI Coach, Trainer and Innovator at vlsideepdive.
+
+AUTHOR :
+Pratyush Parashar, M.Tech in VLSI Design (2022-2024), VIT-Vellore, Vellore, Tamil Nadu-632014, INDIA.
+
+Contact: parasharpratyush15@gmail.com
 
 
 
