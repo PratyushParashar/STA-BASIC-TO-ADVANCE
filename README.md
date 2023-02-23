@@ -1,7 +1,6 @@
 # STA-BASIC-TO-ADVANCE
 
-<img width="592" alt="sta front" src="https://user-images.githubusercontent.com/126072954/220876038-642c3ff9-9148-4706-b9b1-0d7e27dbc54f.png">
-
+<img width="640" alt="front" src="https://user-images.githubusercontent.com/126072954/220913033-93c81323-bea4-467f-80d7-6a7da1cce694.png">
 
 
 TABLE OF CONTENTS
@@ -306,7 +305,11 @@ COMMAND -
 <img width="558" alt="LAB 5 24" src="https://user-images.githubusercontent.com/126072954/220904744-0f2fc65e-b536-4a36-849d-5a80ecc8e1de.png">
 
 ACKNOWLEDGEMENTS :
+
+
 Kunal Ghosh, Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+
+
 Vikas Sachdeva, Advisor, Tech and VLSI Coach, Trainer and Innovator at vlsideepdive.
 
 AUTHOR :
