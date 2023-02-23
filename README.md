@@ -276,10 +276,35 @@ SLACK HAS BEEN VIOLETED
 In the ECO cycle, we perform various analysis one by one for every check which we need to close but not closed till PnR stage. There are specialized signoff tools that help us to analyze the issue and also suggest the changes we need to do in order to close the issue. The suggested change is captured in an eco file.
 
 COMMAND-
+
+
 <img width="547" alt="LAB 5 H" src="https://user-images.githubusercontent.com/126072954/220899902-22d5863b-1408-4fb6-835e-a4a627e47ceb.png">
 
 
 <img width="547" alt="LAB 5 I" src="https://user-images.githubusercontent.com/126072954/220900131-c544a73d-a037-4623-a0c6-7545fef8a431.png">
+
+QUESTION 1- Open Verilog file s27_eco.v, what differences you find compared to s27.v
+
+COMMAND - 
+
+<img width="558" alt="LAB 5 K" src="https://user-images.githubusercontent.com/126072954/220902545-d1b36ca1-9451-4648-b3dc-cc833116f071.png">
+
+
+<img width="1138" alt="LAB 5 J" src="https://user-images.githubusercontent.com/126072954/220903188-ca47f0e0-d5e0-46bb-81a5-0a5722d3a032.png">
+
+QUESTION 2-  Observe the change in slack values at timing report
+COMMAND - 
+
+
+<img width="410" alt="LAB 521" src="https://user-images.githubusercontent.com/126072954/220904599-43e4c82c-82cf-405b-9ec3-e45c5e2f91f2.png">
+
+
+<img width="407" alt="LAB 522" src="https://user-images.githubusercontent.com/126072954/220904653-1099ccf7-7a8f-4d84-8520-334318585d51.png">
+
+<img width="356" alt="LAB 5 23" src="https://user-images.githubusercontent.com/126072954/220904701-cf441302-949a-4a70-af90-2e87828f7e60.png">
+
+<img width="558" alt="LAB 5 24" src="https://user-images.githubusercontent.com/126072954/220904744-0f2fc65e-b536-4a36-849d-5a80ecc8e1de.png">
+
 
 
 
