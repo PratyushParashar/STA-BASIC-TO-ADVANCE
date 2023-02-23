@@ -1,10 +1,24 @@
 # STA-BASIC-TO-ADVANCE
 
+<img width="592" alt="sta front" src="https://user-images.githubusercontent.com/126072954/220876038-642c3ff9-9148-4706-b9b1-0d7e27dbc54f.png">
+
+
+
 TABLE OF CONTENTS
+
+
 1- DAY1 
+
+
 2- DAY2
+
+
 3- DAY3
+
+
 4- DAY4
+
+
 5- DAY5
 
 ## DAY1 
@@ -99,7 +113,7 @@ Question 3-What difference you see between NAND2_X1 and NAND3_X1
 <img width="336" alt="DIFFRENCE" src="https://user-images.githubusercontent.com/126072954/220633392-33c1de47-b05b-4d52-83b6-984553715a63.png">
 
 
-Question 3-What is the difference between ‘simple_max.lib’ and ‘simple_min.lib’.
+Question 4-What is the difference between ‘simple_max.lib’ and ‘simple_min.lib’.
 
 Answer-Comparing simple max.lib with simple min.lib, it can be seen that both files have different values for parameters like delay, fall transition, cell rise, rise transition, cell fall, etc. The maximum value for each parameter is defined in the simple max.lib file, while the minimum value is defined in the simple min.lib file.
 
@@ -121,47 +135,67 @@ QUESTION -Change the number of paths being reported to 100
   
   <img width="448" alt="PATHS" src="https://user-images.githubusercontent.com/126072954/220644244-cdca7eb6-c38e-462e-863c-7e9e47dadf88.png">
 
-PATH 1-
+## PATH 1 - 
+F1  - CK - U6 - U4 - U5   -  A1 - U7  - A2 - F2 - D
   
   
-<img width="709" alt="PATH 1" src="https://user-images.githubusercontent.com/126072954/220644341-373f1d07-f94c-4d8b-b426-fb70a1cdfc3d.png">
+<img width="709" alt="PATH 1" src="https://user-images.githubusercontent.com/126072954/220885845-bbcfdef8-3789-4eca-8eae-f930072faa1b.png">
 
-PATH 2-
+
+## PATH 2 -
+
+F1  -   CK -  U3  -   U5  -  A1  -  U7 -   A2 -  F2  -   D
    
    
-<img width="678" alt="PATH 2" src="https://user-images.githubusercontent.com/126072954/220644434-6a641fe7-38fd-40b1-975c-776e8cc05bac.png">
+<img width="678" alt="PATH 2" src="https://user-images.githubusercontent.com/126072954/220885912-15e1349d-785f-4398-b733-1e9140c20599.png">
+
     
-PATH 3- 
+PATH 3-
+
+F1  - CK  -  U3  -   U4  -  U6  -   A2  -  U7  - A1
     
     
-<img width="678" alt="PATH3" src="https://user-images.githubusercontent.com/126072954/220644641-bfdec109-e525-429c-b908-3360ea9dd191.png">
+<img width="678" alt="PATH3" src="https://user-images.githubusercontent.com/126072954/220885967-ff7fad51-86be-403f-8f02-b74cce74495e.png">
+
     
 PATH 4-
+
+F1  -   CK -   U6 -  A1 -  U7  -  A1 -   F2   -   D
     
     
-<img width="678" alt="PATH 4" src="https://user-images.githubusercontent.com/126072954/220645977-2130889f-70fc-4e10-932b-41777c6bc402.png">
+<img width="678" alt="PATH 4" src="https://user-images.githubusercontent.com/126072954/220886014-84556bcf-c2b0-4af0-9634-be3a1f621ad4.png">
+
     
 PATH 5-
-    
-    
-<img width="678" alt="PATH 5" src="https://user-images.githubusercontent.com/126072954/220646255-702ec4ed-5344-404b-b273-75a718f1d0b9.png">
+
+F1    -   CK -  U3 -  U5   -   A2 - U7  -   A2 - F2 -  D
+
+<img width="678" alt="PATH 5" src="https://user-images.githubusercontent.com/126072954/220886108-32317baf-8218-48b6-bd5d-e6e552e2d53a.png">
+
     
 PATH 6- 
+
+F1    -   CK  -   U6   -   U4    -    U5    :   A1 -    U7   -    A2 -   F2   -   D
     
+<img width="678" alt="PATH 6" src="https://user-images.githubusercontent.com/126072954/220886166-4fb66787-5593-44a6-b990-dc57dc711ce0.png">
     
-<img width="678" alt="PATH 6" src="https://user-images.githubusercontent.com/126072954/220646394-3a7a4ffa-d225-4a6b-a56f-b8552e5e2867.png">
-    
+  
 PATH 7-
+
+F1  -   CK  -  U3   -  U4   -   U6    -   A2   -     U7   -   A1  -   F2    -   D
     
-    
-<img width="1176" alt="PATH 7" src="https://user-images.githubusercontent.com/126072954/220646487-bc813913-7616-4775-8e6e-9e1bf0513af1.png">
+<img width="556" alt="PATH 9" src="https://user-images.githubusercontent.com/126072954/220889111-54ead4f8-d793-4af8-9c8c-83914bb0e0dd.png">
+
+
      
 PATH 8-
-    
-    
-<img width="710" alt="PATH8" src="https://user-images.githubusercontent.com/126072954/220646572-35c4bc0f-299e-4497-beba-f5c4f58852fe.png">
 
-## INFERENCE- OBSERVED ON ALL THE PATHS THE SLACKS WERE VIOLTED
+F1    -   CK  -  U6  -   A1  -   U7   -   A1  -    F2   -   D
+    
+<img width="420" alt="PATH8" src="https://user-images.githubusercontent.com/126072954/220886311-85a14531-5871-45dc-8198-c7c109f9d26d.png">
+
+
+### INFERENCE- OBSERVED ON ALL THE PATHS THE SLACKS WERE VIOLTED
 
 
 ## DAY- 4
@@ -180,9 +214,10 @@ SLACK ON CLOCK GATING PATH
 
 <img width="553" alt="day41a" src="https://user-images.githubusercontent.com/126072954/220657232-d5eab1ed-2f6e-44ba-a242-158489602f4d.png">
 
-<img width="522" alt="day41b" src="https://user-images.githubusercontent.com/126072954/220657314-3a60540c-64a5-47ba-be95-37c441d988d8.png">
+<img width="522" alt="day41b" src="https://user-images.githubusercontent.com/126072954/220890598-c75e73f2-0826-4e14-a673-455f956f8654.png">
 
-## SLACK IS VIOLETED 
+
+### SLACK IS VIOLETED 
 
 ##  ASYNCH PIN CHECK
 
@@ -203,7 +238,48 @@ COMMAND-
 
 ## DAY 5-
 
+### CPPR-
+Common Path Pessimism Removal (CPPR) is prevalent to eliminate inherent but artificial pessimism in clock paths during timing analysis. For example, applying different conditions for the common part of the launch and capture clock paths is over pessimistic. This pessimism should be removed during timing analysis so that true critical paths can then be identified. The challenge of CPPR is that the amount of pessimism to be removed is path dependent. Existing solutions fall into two categories, critical-path-based approach and exhaustive search approach. The critical-path-based approach first identifies critical paths without CPPR consideration and then re-evaluates these identified paths with CPPR. 
 
+
+<img width="641" alt="LAB 5" src="https://user-images.githubusercontent.com/126072954/220892809-f91f8af8-42d7-4353-bbd4-c2ce155c995e.png">
+
+COMMANDS FOR LAB 5
+
+<img width="641" alt="LAB 5 A" src="https://user-images.githubusercontent.com/126072954/220893922-233cc8c1-7269-41fc-8daa-6c9c8020cdf1.png">
+
+
+### TIMING REPORT BEFORE CPPR
+
+<img width="348" alt="LAB 5 E" src="https://user-images.githubusercontent.com/126072954/220896122-ef253cd6-09c1-483e-9745-3d5c4475cd3d.png">
+
+
+COMMAND - 
+
+<img width="641" alt="LAB 5 C" src="https://user-images.githubusercontent.com/126072954/220894497-eac1ffa0-8f0d-427f-81e2-7dfd76f93810.png">
+
+REPORT - 
+
+<img width="354" alt="LAV 5D" src="https://user-images.githubusercontent.com/126072954/220895358-4bcd1c17-dbae-42be-86fe-f730b8514217.png">
+SLACK HAS BEEN VIOLETED
+
+
+### TIMING REPORT AFTER CPPR
+
+<img width="348" alt="LAB 5F" src="https://user-images.githubusercontent.com/126072954/220897488-d74ca7bb-90d3-4c84-b3e8-62f51f8da19a.png">
+
+<img width="501" alt="LAB 5 G" src="https://user-images.githubusercontent.com/126072954/220898270-155ff7d7-7bcf-46da-915f-2130954be0af.png">
+SLACK HAS BEEN VIOLETED
+
+### ECO- Engineering Change Order
+
+In the ECO cycle, we perform various analysis one by one for every check which we need to close but not closed till PnR stage. There are specialized signoff tools that help us to analyze the issue and also suggest the changes we need to do in order to close the issue. The suggested change is captured in an eco file.
+
+COMMAND-
+<img width="547" alt="LAB 5 H" src="https://user-images.githubusercontent.com/126072954/220899902-22d5863b-1408-4fb6-835e-a4a627e47ceb.png">
+
+
+<img width="547" alt="LAB 5 I" src="https://user-images.githubusercontent.com/126072954/220900131-c544a73d-a037-4623-a0c6-7545fef8a431.png">
 
 
 
